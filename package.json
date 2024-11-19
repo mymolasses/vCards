@@ -8,7 +8,7 @@
     "gulp": "gulp --gulpfile src/gulpfile.js --cwd ./",
     "test": "npx ava src/test.js"
   },
-  "repository": "git@github.com:metowolf/vCards.git",
+  "repository": "git@github.com:mymolasses/vCards.git",
   "author": "metowolf <i@i-meto.com>",
   "license": "MIT",
   "private": true,
